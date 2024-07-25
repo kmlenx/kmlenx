@@ -1,0 +1,4 @@
+- 👋 Merhaba ben Kemal
+- 👀 Yazılım ve insansız hava araçlarıyla ilgileniyorum
+- 🌱 Nesne tabanlı programlama öğreniyorum
+- 📫 kemalders2507@gmail.com
